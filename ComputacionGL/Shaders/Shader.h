@@ -4,8 +4,6 @@
 class glad;
 class GLFW;
 
-
-
 class Shader
 {
 public:

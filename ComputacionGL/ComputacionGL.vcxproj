@@ -285,6 +285,7 @@
       <AdditionalIncludeDirectories>D:\Documents\Master_UE\Computacion_grafica\ComputacionGL\ComputacionGL\ThirdParty\include;</AdditionalIncludeDirectories>
       <LinkCompiled>true</LinkCompiled>
     </ClCompile>
+    <ClCompile Include="stb.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Shaders\Shader.h" />
